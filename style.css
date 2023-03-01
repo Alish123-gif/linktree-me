@@ -1,0 +1,43 @@
+main {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    margin: 20px auto;
+    justify-content: center;
+}
+
+
+html{
+    height: 100%;
+    margin: 0;
+    overflow: hidden auto;
+}
+body{
+    font-family: sans-serif;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/001/589/630/original/green-background-with-fading-square-and-dots-free-vector.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.profile-pic{
+    display: block;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+.bio{
+    text-align: center;
+    color: #fff;
+}
+.btn{
+    background-color: #fff;
+    padding: 16px 20px;
+    margin-bottom: 20px;
+    border-radius: 6px;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+}
+.btn:hover{
+    background: transparent ;
+    border: 1px solid #fff;
+    color: #fff;
+}
