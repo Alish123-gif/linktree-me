@@ -15,7 +15,7 @@ html{
 body{
     font-family: sans-serif;
     background-image: url("https://static.vecteezy.com/system/resources/previews/001/589/630/original/green-background-with-fading-square-and-dots-free-vector.jpg");
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size: cover;
 }
 .profile-pic{
