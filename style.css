@@ -16,7 +16,7 @@ body{
     font-family: sans-serif;
     background-image: url("https://w0.peakpx.com/wallpaper/166/481/HD-wallpaper-green-geo-2-i1080-abstract-geometric-green-light-lime-vertical.jpg");
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: cover;
 }
 .profile-pic{
     display: block;
